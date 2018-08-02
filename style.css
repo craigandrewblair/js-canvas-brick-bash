@@ -1,0 +1,16 @@
+body{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-family: 'Roboto', sans-serif;
+  background-color: black;
+  color: #ec411b;
+}
+
+#gameCanvas{
+  height: 75vh;
+  width: 70vw;
+}
